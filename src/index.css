@@ -11,3 +11,11 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+@font-face {
+  font-family: BoldenVan;
+  src: url('../public/fonts/BoldenVan.ttf') format('truetype');
+}
+@font-face {
+  font-family: Fungis;
+  src: url('../public/fonts/FUNGIS-Regular.woff') format('woff');
+}
